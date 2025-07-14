@@ -3,5 +3,45 @@
         "name": "Google Doodle Baseball",
         "slug": "google-doodle-baseball",
         "image": "/cache/data/image/game/google-doodle-baseball/googlebaseball-m186x186.webp"
+    },
+    {
+        "name": "Home Run Champion",
+        "slug": "home-run-champion",
+        "image": "/cache/data/image/game/home-run-champion/home-run-champion1-m186x186.webp"
+    },
+    {
+        "name": "Baseball Boy",
+        "slug": "baseball-boy",
+        "image": "/cache/data/image/game/baseball-boy/baseball-boy-m186x186.webp"
+    },
+    {
+        "name": "Doodle Cricket",
+        "slug": "doodle-cricket",
+        "image": "/cache/data/image/game/doodle-cricket/doodle-cricket1-m186x186.webp"
+    },
+    {
+        "name": "Retro Bowl College",
+        "slug": "retro-bowl-college",
+        "image": "/cache/data/image/game/retro-bowl-college/retro-bowl-college-m186x186.webp"
+    },
+    {
+        "name": "Doodle Football",
+        "slug": "doodle-football",
+        "image": "/cache/data/image/game/doodle-football/doodle-football-m186x186.webp"
+    },
+    {
+        "name": "Speed Stars",
+        "slug": "speed-stars",
+        "image": "/cache/data/image/game/speed-stars/speed-stars-m186x186.webp"
+    },
+    {
+        "name": "Doodle Basketball",
+        "slug": "doodle-basketball",
+        "image": "/cache/data/image/game/doodle-basketball/doodle-basketball-2-m186x186.webp"
+    },
+    {
+        "name": "Google Dinosaur Game",
+        "slug": "google-dinosaur-game",
+        "image": "/cache/data/image/game/google-dinosaur-game/google-dinosaur-game-m186x186.webp"
     }
 ]
